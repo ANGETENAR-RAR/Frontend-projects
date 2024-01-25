@@ -1,0 +1,11 @@
+.board{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 100px;
+}
+
+.brow{
+  width: 100%;
+}
+
